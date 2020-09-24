@@ -8,5 +8,6 @@
     * Cycling
     * Traveling 
     * Problems solving 
-    #
-    ![Statistic](https://github-readme-stats.vercel.app/api?username=KrystynaMil&show_icons=true&theme=tokyonight&title_color=#153fe8,text_color=#201c36)
+ * ![Home Page](https://krystynamil.github.io)
+ #
+ ![Statistic](https://github-readme-stats.vercel.app/api?username=KrystynaMil&show_icons=true&theme=tokyonight&title_color=#153fe8,text_color=#201c36)
