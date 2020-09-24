@@ -1,17 +1,12 @@
-### Hi there 👋
-
-<!--
-**KrystynaMil/KrystynaMil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![alt deadline](https://pin.it/2enndX6)
+##  WELCOME TO MY GITHUB PAGE
+* 😄 My name is Krystyna and I am happy to see you here 😄
+* 🔭 Currently studiing web developement at HackYourFuture  
+* 📫 If you have any qestions you can reach me: <kristina-manager@hotmail.com>
+* 😄 I love: 
+    * Coding
+    * Skiing 
+    * Cycling
+    * Traveling 
+    * Problems solving 
+    #
+    ![Statistic](https://github-readme-stats.vercel.app/api?username=KrystynaMil&show_icons=true&theme=tokyonight&title_color=#153fe8,text_color=#201c36)
