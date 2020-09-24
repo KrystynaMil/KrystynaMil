@@ -1,6 +1,6 @@
 ##      WELCOME TO MY GITHUB PAGE
 * 😄 My name is Krystyna and I am happy to see you here 
-* 🔭 Currently studiing web developement at HackYourFuture Belgium 
+* 🔭 Currently studying web developement at HackYourFuture Belgium 
 * 📫 If you have any qestions you can reach me: <kristina-manager@hotmail.com>
 * 😄 I love: 
     * Coding
