@@ -10,5 +10,4 @@
     * 🌏 _Traveling_ 
     * 🔧 _Problems solving_
  * 🌐 **[Home Page](https://krystynamil.github.io)**
- #
- ![Statistic]()
+ 
