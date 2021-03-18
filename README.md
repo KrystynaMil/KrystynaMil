@@ -9,5 +9,5 @@
     * 🚴 _Cycling_
     * 🌏 _Traveling_ 
     * 🔧 _Problems solving_
- * 🌐 **[Home Page](https://krystynamil.github.io)**
+ * 🌐 **[Home Page]()**
  
