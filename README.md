@@ -1,7 +1,7 @@
 ##      WELCOME TO MY GITHUB PAGE
 ![Langlages](https://selftaught.blog/wp-content/uploads/2019/02/wordpress-3288417_1280-e1550774413446.png)
 * 😄 **My name is Krystyna and I am happy to see you here** 
-* 🔭 **Currently studying web developement at HackYourFuture Belgium** 
+* 🔭 **Full stack web developer** 
 * 📫 **If you have any qestions you can reach me:** 📥 kristina-manager@hotmail.com
 * ❤️ **I love:** 
     * 💻 _Coding_
@@ -9,5 +9,5 @@
     * 🚴 _Cycling_
     * 🌏 _Traveling_ 
     * 🔧 _Problems solving_
- * 🌐 **[Home Page]()**
+ * 🌐 **[Home Page](https://krystyna-miliutyna.netlify.app/#about)**
  
